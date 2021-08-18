@@ -1,0 +1,1 @@
+Be Smol is a URL shortener
